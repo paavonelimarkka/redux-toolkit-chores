@@ -1,5 +1,5 @@
 # Chores
 
-Keeping track of who needs to do what in this house—using Redux Toolkit.
+Exercise for practicing redux-toolkit.
 
 Part of the [Redux Fundamentals](https://stevekinney.github.io/redux-fundamentals) course for [Frontend Masters](https://frontendmasters.com).
